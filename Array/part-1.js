@@ -25,8 +25,8 @@ console.log(newarr);
 console.log(myArr.length); // Output: 4
 
 //Slice Array
-console.log(myArr2.length);
+console.log(myArr2);
 const newarr2=myArr2.slice(2,5)
 console.log(newarr2)
-let keys=Object.values(myArr2[4])
-console.log(keys);
+// let keys=)
+console.log(Object.keys(myArr2[4]));
